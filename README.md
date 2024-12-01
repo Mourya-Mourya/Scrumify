@@ -1,3 +1,6 @@
+## Welcome to Scrumify application 
+Its demo application where we can manager our project with in organization.
+
 ## For database we use neondb. to connect to db we use prisma
 
 ## npm i -D prisma
